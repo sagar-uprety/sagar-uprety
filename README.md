@@ -2,7 +2,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=sagar-uprety)
-<img src=”https://komarev.com/ghpvc/?username=sagar-uprety" alt=”Sagar Uprety” />
+<img src="https://komarev.com/ghpvc/?username=sagar-uprety" alt="Sagar Uprety”/>
 
 <!--Here are some ideas to get you started:
 
