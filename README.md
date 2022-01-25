@@ -10,7 +10,7 @@
 
 - 🔭 Lead Organizer at : [![KU HackFest 2021](https://img.shields.io/badge/-KU%20HackFest%202021-292B38?style=flat)](https://kuhackfest.com/)
 
-- 🤵 Vice President at : [![KUCC](https://img.shields.io/badge/-KUCC-blue?style=flat&)](https://kucc.ku.edu.np/)
+- 🤵 President at : [![KUCC](https://img.shields.io/badge/-KUCC-blue?style=flat&)](https://kucc.ku.edu.np/)
 
 - 🙌 Communities active with: [![Major League Hacking](https://img.shields.io/badge/-Major%20League%20Hacking-265A8F?style=flat&logo=major%20league%20hacking)](https://mlh.io/) [![IYMC](https://img.shields.io/badge/-IYMC-lightgreen?style=flat)](https://iymc.info)
 
