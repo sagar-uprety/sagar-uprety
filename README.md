@@ -9,8 +9,6 @@
 
 - 🔭 Lead Organizer at : [![KU HackFest 2021](https://img.shields.io/badge/-KU%20HackFest%202021-292B38?style=flat)](https://kuhackfest.com/)
 
-- 🤵 President at : [![KUCC](https://img.shields.io/badge/-KUCC-blue?style=flat&)](https://kucc.ku.edu.np/)
-
 - 🔭 Have played around with: ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=flat&logo=javascript) ![Node.JS](https://img.shields.io/badge/-Node.js-grey?style=flat&logo=node.js)![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
  ![Azure](https://img.shields.io/badge/-Microsoft_Azure-azure?style=flat&logo=microsoft-azure&logoColor=blue) ![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=flat&amp;logo=mysql&amp;logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb)
 
@@ -25,8 +23,7 @@
 
 ### Want To Contact Me? 📱
 
-💬 Feel free to reach out to me for anything, I'll be happy to help!
-
+💬 Feel free to reach out to me for anything, I'll be happy to connect with you!
 
 <br> 
 
