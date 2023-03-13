@@ -1,38 +1,144 @@
-<h2 align="center"> Hey, I am Sagar Uprety 👋 </h2>
-<h3 align="center"> CS Student 💻 DevOps | Cloud Native 🌱 Hackathon Enthusiast 😄 </h3>
+![Header](./assets/github-header-image.png)
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Profile!;Diving+into+DevOps+and+Cloud;Loves+Hackathons&font=Fira%20Code&center=true&width=440&height=45&color=556ED2&vCenter=true&size=22)](https://git.io/typing-svg)
 
-### Experience 📈
+<h2> 🤘 About me </h2>
 
-- 🙌 Communities active with:  ![GitHub Campus Expert](https://img.shields.io/badge/-GitHub%20Campus%20Expert-181717?style=flat&logo=github) ![Microsoft Learn Student Ambassador](https://img.shields.io/badge/-Microsoft%20Learn%20Student%20Ambassador-5E5E5E?style=flat&logo=microsoft) [![Major League Hacking](https://img.shields.io/badge/-Major%20League%20Hacking-265A8F?style=flat&logo=major%20league%20hacking)](https://mlh.io/) [![IYMC](https://img.shields.io/badge/-IYMC-lightgreen?style=flat)](https://iymc.info)
-
-- 🔭 Have played around with: ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=flat&logo=javascript) ![Node.JS](https://img.shields.io/badge/-Node.js-grey?style=flat&logo=node.js)![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
- ![Azure](https://img.shields.io/badge/-Microsoft_Azure-azure?style=flat&logo=microsoft-azure&logoColor=blue) ![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=flat&amp;logo=mysql&amp;logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb)
-
-- 🔧 Using Tools : ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-violet?style=flat&logo=visual-studio) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-purple?style=flat&logo=github) ![Figma](https://img.shields.io/badge/-Figma-white?style=flat&logo=figma)
-
-- 🌱 Looking forward to learn: ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-
-
-
----
-
-### Want To Contact Me? 📱
-
-💬 Feel free to reach out to me for anything, I'll be happy to connect with you!
-
-<br> 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Sagar_Uprety-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagar-uprety/)](https://www.linkedin.com/in/sagar-uprety/)
-
-[![Gmail Badge](https://img.shields.io/badge/sagarupreti100@gmail.com-white?style=flat&logo=Gmail&logoColor=&link=mailto:sagarupreti100@gmail.com)](mailto:sagarupreti100@gmail.com)
-[![Follow Me](https://img.shields.io/github/followers/sagar-uprety?label=Follow%20Me&style=social)](https://www.github.com/sagar-uprety)
+<ul>
+<li> 👤 Name: Sagar Uprety </li>
+<li> 😄 Pronouns: He/Him </li>
+<li> 📌 Location : Kathmandu, Nepal 🇳🇵</li>
+<li> 📢 Langauges: English, Nepali
+<li> 🎓 Final semester Computer Science Student at Kathmandu University </li>
+<li> ❤️ I love building projects in JavaScript, Python and Dart </li>
+</ul>
 
 --- 
+<h2 ><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> I'm currently ...</h2>
 
+- 🔭 Learning DevOps practices and tools (Kuberentes world is super fun!)
+- 🧑‍💻 Looking for full-time opportunites in DevOps/Cloud roles
+- 🥳 Empowering student hackers and organizers around the globe as a Coach at [Major League Hacking (MLH)](https://mlh.io/)
+- 🎗️ Supporting students to build diverse and inclusive community as a [GitHub Campus Expert](https://education.github.com/experts)
+- 🍗 Building secret recipies for Chicken Wings on weekends!
+
+---
+
+<h2 > 🎥 YouTube videos </h2>
+
+<table>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=PoL1lDrZ6hE&list=PLLrYSkpcHmySGiEeS5tDsIUDW8zG6myBa"><img width="150px" src="./assets/yt-1.jpeg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VyY-yKJWNUI">Deploy your web application with Azure App Service & GitHub Actions</a> (Cloud Summit 2021)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=ZbIhhZ0aq7Q&t=2928s"><img width="140px" src="./assets/yt-2.jpeg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZbIhhZ0aq7Q&t=2928s">APIs 101 with Postman (Nepali)</a> <br/></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+</table>
+
+---
+
+<h2>🖥️ Tech Stack and Tools Used</h2>
+
+<table>
+<tr>
+    <td align="center"  width="96" height="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <br>JavaScript
+    </td>
+    <td align="center"  width="96"height="40" >
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <br>Python
+    </td>
+    <td align="center"  width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+    <br>Dart
+    </td>
+    <td align="center"  width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <br>C++
+    </td>
+    </td>
+    <td align="center" width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <br>MySQL
+    </td>
+    <td align="center" width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <br>mongoDB
+    </td>
+    <td align="center" width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <br>nodejs
+    </td>
+    </td>
+    <td align="center"  width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <br>Git
+    <td align="center"  width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <br>GitHub
+    </td>
+    <td align="center"  width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <br>Figma
+    </td>
+    
+</tr>
+<tr>
+    <td align="center" width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <br>Docker
+    </td>
+    <td align="center" width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+    <br>Kubernets
+    </td>
+    <td align="center" width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+    <br>Terraform
+    </td>
+    <td align="center" width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
+    <br>Prometheus
+    </td>
+    <td align="center" width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+    <br>Ansible
+    </td>
+    <td align="center" width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <br>Linux
+    </td>
+    <td align="center" width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+    <br>Azure
+    </td>
+      <td align="center" width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+    <br>AWS
+    </td>
+      <td align="center" width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+    <br>Linode
+    </td>
+    <td align="center" width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <br>VsCode
+    </td>
+</table>
+
+---
 <p align="center">
 <a href="https://github.com/sagar-uprety">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sagar-uprety&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>
 </a>
+</p>
+
+<h2 >  💬 Want To Contact Me? </h2>
+
+Feel free to reach out to me for anything, I'll be happy to connect with you all!
+
+<p>
+  <a href="mailto:sagarupreti100@gmail.com" alt="Mail"><img height='50' src="./assets/mail.png"></a>
+   <a href="https://www.github.com/sagar-uprety" alt="Mail"><img height='50' src="./assets/github.png"></a>
+  <a href="https://www.linkedin.com/in/sagar-uprety/" alt="Linkedin"><img height='50' src="./assets/linkedin.png"></a>
 </p>
