@@ -28,7 +28,7 @@
 
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=PoL1lDrZ6hE&list=PLLrYSkpcHmySGiEeS5tDsIUDW8zG6myBa"><img width="150px" src="./assets/yt-1.jpeg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VyY-yKJWNUI">Deploy your web application with Azure App Service & GitHub Actions</a> (Cloud Summit 2021)<br/></td></tr>
+<td><a href="[https://www.youtube.com/watch?v=VyY-yKJWNUI](https://www.youtube.com/watch?v=PoL1lDrZ6hE&list=PLLrYSkpcHmySGiEeS5tDsIUDW8zG6myBa)">Deploy your web application with Azure App Service & GitHub Actions</a> (Cloud Summit 2021)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ZbIhhZ0aq7Q&t=2928s"><img width="140px" src="./assets/yt-2.jpeg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZbIhhZ0aq7Q&t=2928s">APIs 101 with Postman (Nepali)</a> <br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
