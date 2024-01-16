@@ -9,25 +9,29 @@
 <li> 😄 Pronouns: He/Him </li>
 <li> 📌 Location : Kathmandu, Nepal 🇳🇵</li>
 <li> 📢 Langauges: English, Nepali
-<li> 🎓 Final semester Computer Science Student at Kathmandu University </li>
-<li> ❤️ I love building projects in JavaScript, Python and Dart </li>
+<li> 🎓 Tech Evangelist | AWS Solutions Architect | Kubernetes (K8s) specialist </li>
+<li> ❤️ I love building projects in JavaScript, Python, and Dart </li>
 </ul>
 
 --- 
 <h2 ><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> I'm currently ...</h2>
 
-- 🔭 Learning DevOps practices and tools (Kuberentes world is super fun!)
-- 🧑‍💻 Looking for full-time opportunites in DevOps/Cloud roles
+- 🔭 Building DevOps Solutions
+- 🧑‍💻 Looking for full-time opportunities in DevOps/Cloud roles
 - 🥳 Empowering student hackers and organizers around the globe as a Coach at [Major League Hacking (MLH)](https://mlh.io/)
 - 🎗️ Supporting students to build diverse and inclusive community as a [GitHub Campus Expert](https://education.github.com/experts)
-- 🍗 Building secret recipies for Chicken Wings on weekends!
+- 🍗 Building secret recipes for Chicken Wings on weekends!
 
 ---
 
 <h2 > 🎥 YouTube videos </h2>
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=PoL1lDrZ6hE&list=PLLrYSkpcHmySGiEeS5tDsIUDW8zG6myBa"><img width="150px" src="./assets/yt-1.jpeg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=jCJAiOSuOkg"><img width="150px" src="./assets/yt-3.png"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jCJAiOSuOkg">Learn Docker Bridge Network in 15 Minutes
+</a> <br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=PoL1lDrZ6hE&list=PLLrYSkpcHmySGiEeS5tDsIUDW8zG6myBa"><img width="150px" src="./assets/yt-1.jpeg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PoL1lDrZ6hE&list=PLLrYSkpcHmySGiEeS5tDsIUDW8zG6myBa">Deploy your web application with Azure App Service & GitHub Actions</a> (Cloud Summit 2021)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ZbIhhZ0aq7Q&t=2928s"><img width="140px" src="./assets/yt-2.jpeg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZbIhhZ0aq7Q&t=2928s">APIs 101 with Postman (Nepali)</a> <br/></td></tr>
