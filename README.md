@@ -7,17 +7,17 @@
 <ul>
 <li> 👤 Name: Sagar Uprety </li>
 <li> 😄 Pronouns: He/Him </li>
-<li> 📌 Location : Kathmandu, Nepal 🇳🇵</li>
-<li> 📢 Langauges: English, Nepali
-<li> 🎓 Tech Evangelist | AWS Solutions Architect | Kubernetes (K8s) specialist </li>
-<li> ❤️ I love building projects in JavaScript, Python, and Dart </li>
+<li> 📌 Location : Munich, Germany 🇩🇪 </li>
+<li> 📢 Languages: English, Nepali
+<li> 🎓 MSc. Information Systems at Technical University of Munich | Tech Evangelist | AWS Solutions Architect </li>
+<li> ❤️ I love DevOps, Cloud Computing and Automation </li>
 </ul>
 
 --- 
 <h2 ><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> I'm currently ...</h2>
 
 - 🔭 Building DevOps Solutions
-- 🧑‍💻 Looking for full-time opportunities in DevOps/Cloud roles
+- 🧑‍💻 Looking for part-time opportunities in DevOps/Cloud roles
 - 🥳 Empowering student hackers and organizers around the globe as a Coach at [Major League Hacking (MLH)](https://mlh.io/)
 - 🎗️ Supporting students to build diverse and inclusive community as a [GitHub Campus Expert](https://education.github.com/experts)
 - 🍗 Building secret recipes for Chicken Wings on weekends!
@@ -33,8 +33,8 @@
 </a> <br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=PoL1lDrZ6hE&list=PLLrYSkpcHmySGiEeS5tDsIUDW8zG6myBa"><img width="150px" src="./assets/yt-1.jpeg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PoL1lDrZ6hE&list=PLLrYSkpcHmySGiEeS5tDsIUDW8zG6myBa">Deploy your web application with Azure App Service & GitHub Actions</a> (Cloud Summit 2021)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ZbIhhZ0aq7Q&t=2928s"><img width="140px" src="./assets/yt-2.jpeg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZbIhhZ0aq7Q&t=2928s">APIs 101 with Postman (Nepali)</a> <br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=fG5BL7Uisag"><img width="140px" src="./assets/yt-4.jpeg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fG5BL7Uisag">Getting started to IaC with Terraform</a>(MLH)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
