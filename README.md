@@ -11,6 +11,7 @@
 <li> 📢 Languages: English, Nepali
 <li> 🎓 MSc. Information Systems at Technical University of Munich | Tech Evangelist | AWS Certified Solutions Architect Associate </li>
 <li> ❤️ I love DevOps, Cloud Computing and Automation </li>
+<li> ✍️ Checkout my blogs [here](https://sagaruprety.com.np) </li>
 </ul>
 
 --- 
