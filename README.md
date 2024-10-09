@@ -11,7 +11,6 @@
 <li> 📢 Languages: English, Nepali
 <li> 🎓 MSc. Information Systems at Technical University of Munich | Tech Evangelist | AWS Certified Solutions Architect Associate </li>
 <li> ❤️ I love DevOps, Cloud Computing and Automation </li>
-<li> ✍️ Checkout my blogs [here](https://sagaruprety.com.np) </li>
 </ul>
 
 --- 
@@ -22,6 +21,7 @@
 - 🥳 Empowering student hackers and organizers around the globe as a Coach at [Major League Hacking (MLH)](https://mlh.io/)
 - 🎗️ Supporting students to build diverse and inclusive community as a [GitHub Campus Expert](https://education.github.com/experts)
 - 🍗 Building secret recipes for Chicken Wings on weekends!
+- ✍️ Publishing blogs [here](https://sagaruprety.com.np/) 
 
 ---
 
