@@ -116,12 +116,8 @@
     <br>Azure
     </td>
       <td align="center" width="96" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     <br>AWS
-    </td>
-      <td align="center" width="96" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-    <br>Linode
     </td>
     <td align="center" width="96" height="40">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
