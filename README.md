@@ -53,10 +53,6 @@
     <br>Python
     </td>
     <td align="center"  width="96" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-    <br>Dart
-    </td>
-    <td align="center"  width="96" height="40">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <br>C++
     </td>
