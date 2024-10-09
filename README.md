@@ -14,7 +14,7 @@
 </ul>
 
 --- 
-<h2 ><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> I'm currently ...</h2>
+<h2 > 👨‍💻 I'm currently ...</h2>
 
 - 🔭 Building DevOps Solutions
 - 🧑‍💻 Looking for part-time opportunities in DevOps/Cloud roles
@@ -31,9 +31,12 @@
 <tr><td><a href="https://www.youtube.com/watch?v=jCJAiOSuOkg"><img width="150px" src="./assets/yt-3.png"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jCJAiOSuOkg">Learn Docker Bridge Network in 15 Minutes
 </a> <br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=EKCs25wL_Vg"><img width="150px" src="./assets/yt-5.png"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EKCs25wL_Vg">Learn Docker Volumes in 20 Minutes | Docker Storage
+</a> <br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=PoL1lDrZ6hE&list=PLLrYSkpcHmySGiEeS5tDsIUDW8zG6myBa"><img width="150px" src="./assets/yt-1.jpeg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PoL1lDrZ6hE&list=PLLrYSkpcHmySGiEeS5tDsIUDW8zG6myBa">Deploy your web application with Azure App Service & GitHub Actions</a> (Cloud Summit 2021)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=fG5BL7Uisag"><img width="140px" src="./assets/yt-4.jpeg"></a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=fG5BL7Uisag"><img width="140px" src="./assets/yt-4.png"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fG5BL7Uisag">Getting started to IaC with Terraform</a>(MLH)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
