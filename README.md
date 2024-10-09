@@ -9,14 +9,14 @@
 <li> 😄 Pronouns: He/Him </li>
 <li> 📌 Location : Munich, Germany 🇩🇪 </li>
 <li> 📢 Languages: English, Nepali
-<li> 🎓 MSc. Information Systems at Technical University of Munich | Tech Evangelist | AWS Solutions Architect </li>
+<li> 🎓 MSc. Information Systems at Technical University of Munich | Tech Evangelist | AWS Certified Solutions Architect Associate </li>
 <li> ❤️ I love DevOps, Cloud Computing and Automation </li>
 </ul>
 
 --- 
 <h2 > 👨‍💻 I'm currently ...</h2>
 
-- 🔭 Building DevOps Solutions
+- 🔭 Learning and Building DevOps Solutions
 - 🧑‍💻 Looking for part-time opportunities in DevOps/Cloud roles
 - 🥳 Empowering student hackers and organizers around the globe as a Coach at [Major League Hacking (MLH)](https://mlh.io/)
 - 🎗️ Supporting students to build diverse and inclusive community as a [GitHub Campus Expert](https://education.github.com/experts)
