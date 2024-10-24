@@ -8,7 +8,7 @@
 <li> 👤 Name: Sagar Uprety </li>
 <li> 😄 Pronouns: He/Him </li>
 <li> 📌 Location : Munich, Germany 🇩🇪 </li>
-<li> 📢 Languages: English, Nepali
+<li> 📢 Languages: English, Nepali, German (A1)
 <li> 🎓 MSc. Information Systems at Technical University of Munich | Tech Evangelist | AWS Certified Solutions Architect Associate </li>
 <li> ❤️ I love DevOps, Cloud Computing and Automation </li>
 </ul>
