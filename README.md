@@ -6,18 +6,16 @@
 
 <ul>
 <li> 👤 Name: Sagar Uprety </li>
-<li> 😄 Pronouns: He/Him </li>
 <li> 📌 Location : Munich, Germany 🇩🇪 </li>
-<li> 📢 Languages: English, Nepali, German (A1)
-<li> 🎓 MSc. Information Systems at Technical University of Munich | Tech Evangelist | AWS Certified Solutions Architect Associate </li>
+<li> 📢 Languages: English, Nepali, German (A2)
+<li> 🎓 Cloud Native Developer | MSc. Information Systems at Technical University of Munich | Tech Evangelist </li>
 <li> ❤️ I love DevOps, Cloud Computing and Automation </li>
 </ul>
 
 --- 
 <h2 > 👨‍💻 I'm currently ...</h2>
 
-- 🔭 Learning and Building DevOps Solutions
-- 🧑‍💻 Looking for part-time opportunities in DevOps/Cloud roles
+- 🧑‍💻 Building DevOps Solutions and engineering Cloud Native Platforms at SAP Fioneer
 - 🥳 Empowering student hackers and organizers around the globe as a Coach at [Major League Hacking (MLH)](https://mlh.io/)
 - 🎗️ Supporting students to build diverse and inclusive community as a [GitHub Campus Expert](https://education.github.com/experts)
 - 🍗 Building secret recipes for Chicken Wings on weekends!
